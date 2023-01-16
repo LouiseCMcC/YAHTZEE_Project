@@ -6,13 +6,19 @@ Server
 
 cd server
 npm install (or npm upgrade)
+
 npm run seeds (seeds database)
+
 npm run server:dev (runs express)
+
 Server available on http://localhost:9000/api/rolls
 
 Client
 
 cd client
+
 npm install (or npm upgrade)
+
 npm start
+
 Client available on http://localhost:3000/
