@@ -2,6 +2,7 @@
 YAHTZEE web application designed and created by a three person group. Made using JavaScript with React and MongoDB
 
 To run:
+
 Server
 
 cd server
